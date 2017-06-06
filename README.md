@@ -1,0 +1,2 @@
+# FollowRules
+Condition manager
